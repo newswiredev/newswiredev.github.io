@@ -33,6 +33,6 @@ exclude:
   - Gemfile.lock
 collections:
   docs:
-    permalink: /docs
+    permalink: /docs/:title:output_ext
     output: true
 
